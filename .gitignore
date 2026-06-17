@@ -19,3 +19,6 @@ PROJECT_STATUS.md
 .omc/
 .DS_Store
 __pycache__/
+
+# 이론 보조 메모 (슬라이드 PDF로 대체 — 배포 제외)
+theory/

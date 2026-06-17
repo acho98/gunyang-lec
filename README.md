@@ -87,10 +87,9 @@
 
 ## 📁 폴더 구조
 ```
-intro_data_analysis/
+gunyang-lec/
 ├── README.md          ← 지금 이 문서
-├── slides/            교시별 강의 슬라이드 (.pdf, 총 6개)
-├── labs/              교시별 실습 (.ipynb — blank + solution)
-└── theory/            이론 보조 메모 (.md, 선택)
+├── slides/            교시별 강의 슬라이드 (.pdf, 총 6개) — 이론
+└── labs/              교시별 실습 (.ipynb — blank + solution)
 ```
 > 실습 데이터·한글폰트는 별도 저장소 **[gunyang-data](https://github.com/acho98/gunyang-data)** 에 있으며, 노트북이 자동으로 불러옵니다(이 저장소에 중복 보관하지 않습니다).
