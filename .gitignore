@@ -1,0 +1,21 @@
+# === 배포 제외 (제작용/원본/대용량) ===
+
+# 빌더·생성 스크립트 (제작용)
+labs/_*.py
+slides/_*.py
+
+# 슬라이드 원본·백업 (배포는 PDF만)
+slides/*.pptx
+slides/assets/
+
+# 실습 데이터·폰트 (gunyang-data 저장소에서 자동 로드 → 중복 배포 안 함)
+data/
+
+# 내부 작업 문서
+PROJECT_STATUS.md
+
+# 잡파일
+**/.ipynb_checkpoints/
+.omc/
+.DS_Store
+__pycache__/
